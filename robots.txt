@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://adamh1ewp.github.io/gh-pages/sitemap.xml
